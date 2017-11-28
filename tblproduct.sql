@@ -9,6 +9,6 @@ CREATE TABLE IF NOT EXISTS `tblproduct` (
 )
 
 INSERT INTO `tblproduct` (`id`, `name`, `code`, `image`, `price`) VALUES
-(1, 'Maggi', 'Maggi01','http://www.harassed.in/Copic/maggi1461978463.jpg' , 150.00),
+(1, '3D Camera', '3DcAM01', 'product-images/camera.jpg', 1500.00),
 (2, 'Atta', 'Attag1', 'https://pimg.tradeindia.com/00585023/b/2/Grocery-Item-Pouches.jpg', 100.00),
 (3, 'Salt', 'Salt03','http://www.vardhmanstore.com/images/p3.jpg', 30.00);
